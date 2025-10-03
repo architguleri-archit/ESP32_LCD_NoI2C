@@ -11,8 +11,8 @@ The Arduino code files included in this repository:
 Upload them to your ESP32 using Arduino IDE.
 
 ## 🎵 Music Used in Video
-- [Elektronomia - Sky High | NCS](https://youtu.be/TW9d8vYrVFQ)  
-- [Syn Cole - Feel Good | NCS](https://youtu.be/q1ULJ92aldE)
+- [Elektronomia - Sky High | NCS](https://youtu.be/TW9d8vYrVFQ) → Tutorial background  
+- [Syn Cole - Feel Good | NCS](https://youtu.be/q1ULJ92aldE) → Outro / animations  
 
 ## 📹 Tutorial
 Watch the full tutorial video on YouTube:  
