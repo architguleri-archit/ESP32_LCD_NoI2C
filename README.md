@@ -1,19 +1,34 @@
-# ESP32 with 16x2 LCD (No I2C)
+ESP32 with 16x2 LCD (No I2C)
 
-This project demonstrates how to connect and use a 16x2 LCD with the ESP32 **without using an I2C module**.
+This project demonstrates how to connect and use a 16x2 LCD with the ESP32 without using an I2C module.
 
-## 📜 Code
-The Arduino code files included in this repository:
+📜 Code
 
-- [`sketch_oct2a.ino`](sketch_oct2a.ino) → Main tutorial code  
-- [`sketch_oct2d.ino`](sketch_oct2d.ino) → LCD animations / additional features  
+The Arduino and MicroPython code files included in this repository:
 
-Upload them to your ESP32 using Arduino IDE.
+sketch_oct2a.ino
+ → Main tutorial code
 
-## 🎵 Music Used in Video
-- [Elektronomia - Sky High | NCS](https://youtu.be/TW9d8vYrVFQ) → Tutorial background  
-- [Syn Cole - Feel Good | NCS](https://youtu.be/q1ULJ92aldE) → Outro / animations  
+sketch_oct2d.ino
+ → LCD animations / additional features
 
-## 📹 Tutorial
-Watch the full tutorial video on YouTube:  
-👉 [Bolt Bunny YouTube Channel](https://www.youtube.com/@Bolt_Bunny)
+main.py
+ → MicroPython code (same as Main tutorial code)
+
+main2.py
+ → MicroPython code (same as LCD animations / additional features)
+
+Upload .ino files using Arduino IDE, or .py files using Thonny or ampy for MicroPython on ESP32.
+
+🎵 Music Used in Video
+
+Elektronomia - Sky High | NCS
+ → Tutorial background
+
+Syn Cole - Feel Good | NCS
+ → Outro / animations
+
+📹 Tutorial
+
+Watch the full tutorial video on YouTube:
+👉 Bolt Bunny YouTube Channel
