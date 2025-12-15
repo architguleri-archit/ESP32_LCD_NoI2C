@@ -10,11 +10,7 @@ The Arduino and MicroPython code files included in this repository:
 - [`main.py`](main.py) → **MicroPython code** *(same as Main tutorial code)*  
 - [`main2.py`](main2.py) → **MicroPython code** *(same as LCD animations / additional features)*  
 
-Upload `.ino` files using **Arduino IDE**, or `.py` files using **Thonny** or **ampy** for **MicroPython** on ESP32.
-
-## 🎵 Music Used in Video
-- [Elektronomia - Sky High | NCS](https://youtu.be/TW9d8vYrVFQ) → Tutorial background  
-- [Syn Cole - Feel Good | NCS](https://youtu.be/q1ULJ92aldE) → Outro / animations  
+Upload `.ino` files using **Arduino IDE**, or `.py` files using **Thonny** or **ampy** for **MicroPython** on ESP32. 
 
 ## 📹 Tutorial
 Watch the full tutorial video on YouTube:  
