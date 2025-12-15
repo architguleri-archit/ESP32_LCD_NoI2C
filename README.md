@@ -18,4 +18,4 @@ Upload `.ino` files using **Arduino IDE**, or `.py` files using **Thonny** or **
 
 ## 📹 Tutorial
 Watch the full tutorial video on YouTube:  
-👉 [Bolt Bunny YouTube Channel](https://www.youtube.com/@Bolt_Bunny)
+👉 [Bolt Bunny YouTube Channel](https://youtu.be/wFMeEI-X_Uc)
